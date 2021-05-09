@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background: linear-gradient(#48cae4 0%, #023e8a 100%);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#name {
+    font-family: 'Mukta', sans-serif;
+}
+
+#welcome {
+    padding: 70px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 18;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
+
+h2 {
+    font-size: 18px;
+    color: white;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 42px;
+    background: pink;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: crosshair;
+    color: black;
+}
+
+.menu a {
+    color: black !important;
+
+}
